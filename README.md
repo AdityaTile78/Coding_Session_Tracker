@@ -46,38 +46,14 @@ Easily view your progress in a beautiful terminal UI powered by Spectre.Console.
 1. Clone the repository
 git clone https://github.com/your-username/coding-tracker.git
 
-cd coding-tracker
-Restore NuGet packages
-
-dotnet restore
-Build the project
-
-dotnet build
-Run the app
-
 dotnet run
 📅 Date & Time Format
 Enter all dates in the format:
 yyyy-MM-dd HH:mm
 (Example: 2025-07-18 10:30)
 
-📖 Menu Options
-1	View all coding sessions
-2	Add a new coding session
-3	Delete a coding session by Id
-0	Exit the application
-
 🗃️ Database
 SQLite database file (codingTracker.db) is created automatically in your project directory.
-
-📸 Screenshots
-💻 Main Menu
-=== Coding Tracker ===
-1 - View all coding sessions
-2 - Add a new coding session
-3 - Delete a coding session
-0 - Exit
-Select an option:
 
 
 📖 License
