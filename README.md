@@ -56,14 +56,12 @@ dotnet build
 Run the app
 
 dotnet run
-📝 Usage
 📅 Date & Time Format
 Enter all dates in the format:
 yyyy-MM-dd HH:mm
 (Example: 2025-07-18 10:30)
 
 📖 Menu Options
-Option	Action
 1	View all coding sessions
 2	Add a new coding session
 3	Delete a coding session by Id
@@ -80,13 +78,8 @@ SQLite database file (codingTracker.db) is created automatically in your project
 3 - Delete a coding session
 0 - Exit
 Select an option:
-📊 Session Table
 
-╭────┬─────────────────────┬─────────────────────┬───────────╮
-│ Id │     Start Time      │      End Time        │ Duration  │
-├────┼─────────────────────┼─────────────────────┼───────────┤
-│ 1  │ 2025-07-18 10:00    │ 2025-07-18 12:15      │ 2h 15m    │
-╰────┴─────────────────────┴─────────────────────┴───────────╯
+
 📖 License
 This project is licensed under the MIT License.
 
